@@ -3,6 +3,6 @@ finding new ways to improve efficiency enhancing productivity and product qualit
 
 💻 Currently, I’m working as a Software QA Test Engineer.
 
-🧭 I'm interested in QA Software Tesing as well as Test Automation.
+🧭 I'm interested in QA Software Testing as well as Test Automation.
 
 I'm always looking to grow my personal and professional network.
